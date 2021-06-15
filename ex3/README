@@ -1,0 +1,11 @@
+noystl, baraloni
+Noy Sternlicht, Bar Aloni
+EX: 2
+
+FILES:
+README -- This file.
+Makefile -- A file containing a set of directives used by a make build automation tool to generate
+the libMapReduceFramework.a  static library.
+mapReduceFramework.cpp -- The library manages the parallel work required to accomplish a map-reduce job.
+barrier.cpp-- An object that makes the threads stop it's work until all other threads had finished the same work.
+barrier.h -- A header for barrier.cpp

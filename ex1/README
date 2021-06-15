@@ -1,0 +1,28 @@
+noystl, baraloni
+Noy Sternlicht, Bar Aloni
+EX: 1
+
+FILES:
+README -- This file.
+Makefile -- A file containing a set of directives used by a 
+			make build automation tool to generate the osm library.
+osm.cpp -- Holds the code needed fortesting the overhead (in nanoseconds) 
+	   derived from the operations: 
+	   arithmetic addition, empty function call and empty system call.
+
+REMARKS:
+
+
+ANSWERS:
+
+Q1:
+the rogaram "WhatIDO" preforms the following instructions:
+1) a proggram with one argument: an int.
+2) creates a new directory named "Welcome".
+3) in the "Welcome" directory, creates a new directory named "To".
+4) creates a new file named "OS2018" in "Welcome/To" and writes to it:
+   "<username>\n If you haven't read the course guidlines yet --- do it right now!\n<argument>"
+5) destroys in an revese order to the creation order the file and 2 directories.
+
+Q2:
+A graph is subbmitted.
